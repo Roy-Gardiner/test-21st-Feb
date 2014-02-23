@@ -1,0 +1,113 @@
+body {
+
+   font-size: 12px;
+   font-weight: normal;
+   word-spacing: normal;
+   letter-spacing: normal;
+   text-transform: none;
+   font-family: Verdana, Myriad Web, Syntax, sans-serif;
+   font-size-adjust: .5;
+   line-height: 1.5em;
+   background-image: url('http://picsmix.biz/wp-content/uploads/2013/08/blue-sky-with-clouds-wallpaperwallpapers-sky-cloud-white-clouds-blue-3200x1200--304951--sky-cloud-c5bv4ctc.jpg');
+ 
+  }
+
+p {
+    margin-top: .83em;
+    padding-top: .83em;
+  }
+ 
+  .header01 {
+  	line-height:50px;
+  	vertical-align: middle;
+  	background-color: white;
+  	min-width: 800px;
+  	font-size: 1.2em;
+  	height: 60px;
+  }
+ 
+  .header_image {
+  	width: 30px;
+  	margin-top: 5px;
+  	margin-right: 10px;
+  }
+
+  .header_image_01 {
+  	width: 150px;
+  	height: 30px;
+  }
+
+
+  .left { 
+  }
+  .middle {
+   	margin-left: 50px;
+  }
+  .right {
+  	float: right;
+  }
+  
+.c03left {
+	width:100px;
+ margin-left:20px;
+ float:left;
+ }
+.c03centre {
+ margin-left:20px;
+ width: 800px;
+ margin-right:35px;
+ float:left;
+ }
+.c03right {
+ width: 30%;
+ margin-left:20px;
+ margin-right:10px;
+ float:left;
+ }
+.aside {
+	  padding: 5px;
+  	margin-left: 20px;
+  	margin-top: 10px;
+  	margin-right: 5px;
+  	margin-bottom: 5px;
+  	background-color: white;
+  	width: 200px;
+  	float: left;
+  }
+
+.aside header {
+	font-weight: bold;
+	background-color: black;
+	color: white;
+	
+	text-align: center;
+}
+.aside header h1 {
+	/*margin-top: 10px;*/
+	padding-top: 10px;
+	height: 70px;
+	font-size: 2em;
+	line-height: 1em;
+
+}
+
+ .main {
+ 	  padding: 5px;
+ 	  /*margin-left: 20px;*/
+  	/*margin-top: 10px;*/
+  	/*margin-right: 5px;*/
+  	/*margin-bottom: 5px;*/
+ 		width: 530px;
+ 	  float:right; 
+ 	  background-color: transparent;
+ }
+
+ .article {
+ 	  clear: both;
+ 	  padding: 5px;
+  	margin-left: 20px;
+  	margin-top: 10px;
+  	margin-right: 5px;
+  	margin-bottom: 5px;
+ 	background-color: white;
+ }
